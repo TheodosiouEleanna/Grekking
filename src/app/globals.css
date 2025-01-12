@@ -41,3 +41,26 @@ body {
 .animate-slide-left {
   animation: slide-left 0.5s ease-in-out;
 }
+.overflow-hidden {
+  overflow: hidden;
+}
+.transition-all {
+  transition: all 0.3s ease-in-out;
+}
+.max-h-0 {
+  max-height: 0;
+}
+.max-height-500 {
+  max-height: 500px; /* Adjust based on content size */
+}
+.jersey15-grekking {
+  font-family: "Jersey_15", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 25px;
+  color: #172c2c;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 20px 0;
+}
